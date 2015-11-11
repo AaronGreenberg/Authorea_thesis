@@ -1,3 +1,2 @@
 Intro.tex
-figures/2004seasonallegal/2004seasonallegal.png
 section_Methods__.tex
