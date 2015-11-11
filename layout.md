@@ -1,1 +1,2 @@
 section_Introduction_section_Methods__.tex
+figures/2004seasonallegal1/2004seasonallegal1.png
