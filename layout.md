@@ -1,3 +1,3 @@
 untitled.tex
 figures/2004seasonallegal/2004seasonallegal.png
-smiles__.tex
+Methods.tex
