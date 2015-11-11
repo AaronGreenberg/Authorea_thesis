@@ -1,2 +1,1 @@
-Intro.tex
 section_Methods__.tex
